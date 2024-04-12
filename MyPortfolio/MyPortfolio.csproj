@@ -7,6 +7,100 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\hola-master\blog-single.html" />
+    <None Include="wwwroot\hola-master\blog.html" />
+    <None Include="wwwroot\hola-master\css\base.css" />
+    <None Include="wwwroot\hola-master\css\fonts.css" />
+    <None Include="wwwroot\hola-master\css\iconic\css\iconmonstr-iconic-font.css" />
+    <None Include="wwwroot\hola-master\css\iconic\css\iconmonstr-iconic-font.min.css" />
+    <None Include="wwwroot\hola-master\css\iconic\fonts\iconmonstr-iconic-font.eot" />
+    <None Include="wwwroot\hola-master\css\iconic\fonts\iconmonstr-iconic-font.ttf" />
+    <None Include="wwwroot\hola-master\css\iconic\fonts\iconmonstr-iconic-font.woff" />
+    <None Include="wwwroot\hola-master\css\iconic\fonts\iconmonstr-iconic-font.woff2" />
+    <None Include="wwwroot\hola-master\css\main.css" />
+    <None Include="wwwroot\hola-master\css\vendor.css" />
+    <None Include="wwwroot\hola-master\favicon.ico" />
+    <None Include="wwwroot\hola-master\fonts\librebaskerville\librebaskerville-bold-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\librebaskerville\librebaskerville-bold-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\librebaskerville\librebaskerville-italic-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\librebaskerville\librebaskerville-italic-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\librebaskerville\librebaskerville-regular-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\librebaskerville\librebaskerville-regular-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-black-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-black-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-bold-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-bold-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-extrabold-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-extrabold-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-extralight-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-extralight-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-light-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-light-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-medium-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-medium-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-regular-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-regular-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-semibold-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-semibold-webfont.woff2" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-thin-webfont.woff" />
+    <None Include="wwwroot\hola-master\fonts\montserrat\montserrat-thin-webfont.woff2" />
+    <None Include="wwwroot\hola-master\images\avatars\user-01.jpg" />
+    <None Include="wwwroot\hola-master\images\avatars\user-02.jpg" />
+    <None Include="wwwroot\hola-master\images\avatars\user-03.jpg" />
+    <None Include="wwwroot\hola-master\images\avatars\user-04.jpg" />
+    <None Include="wwwroot\hola-master\images\avatars\user-05.jpg" />
+    <None Include="wwwroot\hola-master\images\blog\blog-bg-01.jpg" />
+    <None Include="wwwroot\hola-master\images\blog\blog-bg-02.jpg" />
+    <None Include="wwwroot\hola-master\images\contact-bg.jpg" />
+    <None Include="wwwroot\hola-master\images\count-bg.jpg" />
+    <None Include="wwwroot\hola-master\images\hero-bg.jpg" />
+    <None Include="wwwroot\hola-master\images\logo.png" />
+    <None Include="wwwroot\hola-master\images\photoswipe\default-skin.png" />
+    <None Include="wwwroot\hola-master\images\photoswipe\default-skin.svg" />
+    <None Include="wwwroot\hola-master\images\photoswipe\preloader.gif" />
+    <None Include="wwwroot\hola-master\images\portfolio\beetle%402x.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\beetle.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-beetle.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-bicycle.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-liberty.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-lighthouse.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-minimalismo.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-salad.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-shutterbug.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-skaterboy.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\gallery\g-woodcraft.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\liberty%402x.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\liberty.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\lighthouse%402x.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\lighthouse.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\minimalismo%402x.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\minimalismo.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\salad%402x.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\salad.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\shutterbug%402x.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\shutterbug.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\skaterboy%402x.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\skaterboy.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\woodcraft%402x.jpg" />
+    <None Include="wwwroot\hola-master\images\portfolio\woodcraft.jpg" />
+    <None Include="wwwroot\hola-master\images\sample-image.jpg" />
+    <None Include="wwwroot\hola-master\images\testimonial-bg.jpg" />
+    <None Include="wwwroot\hola-master\images\wheel-1000.jpg" />
+    <None Include="wwwroot\hola-master\images\wheel-2000.jpg" />
+    <None Include="wwwroot\hola-master\images\wheel-500.jpg" />
+    <None Include="wwwroot\hola-master\inc\sendEmail.php" />
+    <None Include="wwwroot\hola-master\index.html" />
+    <None Include="wwwroot\hola-master\js\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\hola-master\js\main.js" />
+    <None Include="wwwroot\hola-master\js\modernizr.js" />
+    <None Include="wwwroot\hola-master\js\pace.min.js" />
+    <None Include="wwwroot\hola-master\js\plugins.js" />
+    <None Include="wwwroot\hola-master\readme.txt" />
+    <None Include="wwwroot\hola-master\styles.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter" Version="8.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4">
       <PrivateAssets>all</PrivateAssets>
@@ -17,6 +111,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
   </ItemGroup>
 
 </Project>
