@@ -1161,7 +1161,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     content: "";
 }
 
-.skill-bars li .percent5 {
+.skill-bars li .percent5{
     width: 5%;
 }
 
@@ -1213,31 +1213,31 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 65%;
 }
 
-.skill-bars li .percent70 {
+.skill-bars li .percent70{
     width: 70%;
 }
 
-.skill-bars li .percent75 {
+.skill-bars li .percent+75{
     width: 75%;
 }
 
-.skill-bars li .percent80 {
+.skill-bars li .percent80{
     width: 80%;
 }
 
-.skill-bars li .percent85 {
+.skill-bars li .percent85{
     width: 85%;
 }
 
-.skill-bars li .percent90 {
+.skill-bars li .percent90{
     width: 90%;
 }
 
-.skill-bars li .percent95 {
+.skill-bars li .percent95{
     width: 95%;
 }
 
-.skill-bars li .percent100 {
+.skill-bars li .percent100{
     width: 100%;
 }
 
